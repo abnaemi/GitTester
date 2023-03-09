@@ -6,4 +6,6 @@ public class Main {
     }
 
     // Added Method 2
+
+    //added new feature
 }
